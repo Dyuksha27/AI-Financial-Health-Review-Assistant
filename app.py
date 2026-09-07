@@ -1961,7 +1961,7 @@ with st.sidebar:
 
     company_name = st.text_input(
         "Company Name",
-        value="Microsoft"
+        value=""
     )
 
     uploaded_file = st.file_uploader(
