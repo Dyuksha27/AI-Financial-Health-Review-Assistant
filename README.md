@@ -13,7 +13,6 @@ https://dyuksha27-ai-financial-health-review-assistant-app-kasbpe.streamlit.app/
 - Detects material financial trends using a deterministic rules engine
 - Generates interactive financial charts
 - Uses AI to interpret material findings, identify possible drivers and risks, and suggest areas for further investigation
-- Separates deterministic financial calculations from AI-generated interpretation
 
 ## Input Format
 
