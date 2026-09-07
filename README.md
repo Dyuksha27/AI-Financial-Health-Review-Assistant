@@ -7,7 +7,7 @@ https://dyuksha27-ai-financial-health-review-assistant-app-kasbpe.streamlit.app/
 
 ## Features
 
-- Analyzes 5-year Income Statement, Balance Sheet, and Cash Flow data
+- Analyzes Income Statement, Balance Sheet, and Cash Flow data
 - Calculates profitability, liquidity, leverage, working capital, and cash flow metrics
 - Supports common differences in financial line-item terminology through flexible metric mapping
 - Detects material financial trends using a deterministic rules engine
